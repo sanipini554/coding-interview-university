@@ -292,7 +292,7 @@ Preferably the language would be the same, so that you only need to be proficien
 When I did the study plan, I used 2 languages for most of it: C and Python
 
 * C: Very low level. Allows you to deal with pointers and memory allocation/deallocation, so you feel the data structures 
-    and algorithms in your bones. In higher level languages like Python or Java, these are hidden from you. In day to day work, that's terrific,
+    and algorithms in your bones. In higher-level languages like Python or Java, these are hidden from you. In day-to-day work, that's terrific,
     but when you're learning how these low-level data structures are built, it's great to feel close to the metal.
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
     - [The C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
